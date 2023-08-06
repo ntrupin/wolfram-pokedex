@@ -1,4 +1,4 @@
-Wolfram Pokédex | September-October 2021
+Wolfram Pokédex | September 2021
 
 Late GitHub backup of origin project.
 
